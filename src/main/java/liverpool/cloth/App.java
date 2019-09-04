@@ -18,6 +18,6 @@ public class App
     }
     @RequestMapping("/") 
 	String home() { 
-    	return "Welcome to Liverpool Shop"; 
+    	return "Welcome to Liverpool Cloths Shop"; 
     }
 }
